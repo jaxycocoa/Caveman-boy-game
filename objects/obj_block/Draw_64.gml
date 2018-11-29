@@ -1,8 +1,8 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 41C0E4D6
+/// @DnDHash : 19790282
 /// @DnDArgument : "imageind" "1"
-/// @DnDArgument : "spriteind" "block"
-/// @DnDSaveInfo : "spriteind" "0655f2fe-3976-4151-9581-f29bf8deac1f"
-sprite_index = block;
+/// @DnDArgument : "spriteind" "spr_blocks"
+/// @DnDSaveInfo : "spriteind" "a21912b1-97b2-4236-a155-8206512f2ccf"
+sprite_index = spr_blocks;
 image_index = 1;
