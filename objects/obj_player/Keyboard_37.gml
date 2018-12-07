@@ -21,9 +21,15 @@ if (!(l613A888E_0 > 0))
 	x += -run_speed;
 	y += 0;
 
+	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+	/// @DnDVersion : 1
+	/// @DnDHash : 2656E62B
+	/// @DnDParent : 613A888E
+	image_speed = 1;
+
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDVersion : 1
-	/// @DnDHash : 100858B0
+	/// @DnDHash : 0BD8C230
 	/// @DnDParent : 613A888E
 	/// @DnDArgument : "imageind" "image_index"
 	/// @DnDArgument : "spriteind" "spr_run"
@@ -33,7 +39,7 @@ if (!(l613A888E_0 > 0))
 
 	/// @DnDAction : YoYo Games.Instances.Sprite_Scale
 	/// @DnDVersion : 1
-	/// @DnDHash : 03387233
+	/// @DnDHash : 77E81103
 	/// @DnDParent : 613A888E
 	/// @DnDArgument : "xscale" "-1"
 	image_xscale = -1;
