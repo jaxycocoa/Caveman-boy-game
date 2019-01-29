@@ -1,3 +1,23 @@
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDVersion : 1
+/// @DnDHash : 370A637B
+/// @DnDArgument : "health" "100"
+
+__dnd_health = real(100);
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 58616FD1
+
+__dnd_score = real(0);
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 2093B673
+/// @DnDArgument : "lives" "3"
+
+__dnd_lives = real(3);
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2FF8F611
